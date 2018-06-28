@@ -1,0 +1,27 @@
+"SPECIALTRADE","特种行业"
+"COMMONCOMPLEXPLACE","公共复杂场所"
+"POORPEOPLE","困难群众"
+"DANGERTRAMPRESIDENT","高危流动人口"
+
+"PROTECTIONKEY","重点保障"
+"SAFETYPRODUCTIONKEY","安全生产重点"
+"FIRESAFETYKEY","消防安全重点"
+"SECURITYKEY","治安重点"
+
+"CITYUSER","市级用户登记表"
+"DISTRICTUSER","县级用户登记表"
+"TOWNUSER","乡镇用户登记表"
+
+"INHABITANT", "常住人口"
+"ESTATEINFORMATION", "房产信息"
+"OPTIMALOBJECT","优抚对象"
+"ELDERLYPEOPLE","老年人"
+"HANDICAPPED","残疾人"
+"NURTURESWOMEN","育妇"
+"PARTYMEMBERINFO","本级党建党员信息"
+
+"HOUSEINFO","住房信息"
+"RENTALHOUSE","出租房信息"
+
+"ACTUALCOMPANY","实有单位"
+

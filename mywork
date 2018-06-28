@@ -1,0 +1,21 @@
+<NotepadPlus>
+    <Project name="oracle">
+        <File name="&#x5E38;&#x7528;SQL.sql" />
+        <Folder name="pl">
+            <File name="PL.sql" />
+            <File name="&#x6761;&#x4EF6;&#x63A7;&#x5236;.sql" />
+            <File name="&#x5FAA;&#x73AF;&#x7ED3;&#x6784;.sql" />
+            <File name="&#x6E38;&#x6807;.sql" />
+            <File name="&#x5B58;&#x50A8;&#x8FC7;&#x7A0B;.sql" />
+            <File name="&#x53D8;&#x91CF;&#x58F0;&#x660E;.sql" />
+        </Folder>
+        <File name="&#x9519;&#x8BEF;&#x4E0E;&#x5176;&#x4ED6;.sql" />
+        <File name="Excel&#x5BFC;&#x5165;&#x5230;oracle.sql" />
+    </Project>
+    <Project name="redis">
+        <File name="redis.txt" />
+    </Project>
+    <Project name="js">
+        <File name="jQuery.js" />
+    </Project>
+</NotepadPlus>

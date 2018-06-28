@@ -1,0 +1,41 @@
+﻿string   redis中的key是字符串，值也是字符串
+-----------------
+key		value
+string	string
+
+hash     redis中的key是字符串；值是键值对
+-----------------
+key		value
+string	key : value
+user:1  name : jack
+		address : China
+		age:23	
+		
+set        redis中的key是字符串；值是set，无序
+------------------
+key			 value
+string  	 。。。。。。。。
+user:1:vote  jack
+			 rose
+			 lisi
+
+list      redis中的key是字符串；值是list，有序
+------------------
+key			value
+string		。。。。。。。
+
+zset
+-----------------------
+key			value
+string		value score
+student		jack	77
+			rose	88
+			zhangsan 45
+
+
+
+
+
+
+
+
