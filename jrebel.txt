@@ -1,0 +1,11 @@
+在jrebel server处，写上：
+
+http://139.199.89.239:1008/88414687-3b91-4286-89ba-2dc813b107ce
+
+-Drebel.spring_plugin=true
+-Drebel.aspectj_plugin=true
+-Drebel.struts2_plugin=true
+-javaagent:D:\jrebel.jar
+-noverify
+-Xbootclasspath/p:C:\Users\ADMINI~1\AppData\Local\Temp\rebelboot.jar
+-Xms1024M -Xmx1024M -XX:MaxNewSize=512m -XX:MaxPermSize=512m
