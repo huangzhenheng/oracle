@@ -18,4 +18,7 @@
     <Project name="js">
         <File name="jQuery.js" />
     </Project>
+    <Project name="jrebel">
+        <File name="jrebel.txt" />
+    </Project>
 </NotepadPlus>
